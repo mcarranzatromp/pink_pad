@@ -2,6 +2,11 @@ body {
     background-color: #571B7E;
 }
 
+body[title*="page2.html"] {
+ 
+    background-color:white;
+}
+
 
 h2 {
     text-align: center;
